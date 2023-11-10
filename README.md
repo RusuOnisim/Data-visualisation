@@ -2,7 +2,7 @@
 
 ## Description
 
-Data visualisation exercise Becode. Creating charts for he Multimedia department of one of the European Union institutions. Understading the Api and DOM. 
+Data visualisation exercise Becode. Creating charts for The Multimedia department of one of the European Union institutions. Understading the Api and DOM. 
 
 ## Preview
 
