@@ -119,7 +119,7 @@ var myChart3 = new Chart(ctx3, {
 });
 
 function fetchData() {
-    var url = "https://canvasjs.com/services/data/datapoints.php?xstart=" + (dataPoints.length + 1) + "&ystart=" + (dataPoints[dataPoints.length - 1]) + "&length=1&type=json";
+    var url = "https://canvasjs.com/services/data/datapoints.php?xstart=" + (dataPoints.length + 1) + "&ystart=" + (dataPoints[dataPoints.length - 1]) + "&length=1&type=json" ;
 
     fetch(url)
         .then(response => response.json())
