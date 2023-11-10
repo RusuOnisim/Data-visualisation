@@ -8,7 +8,7 @@ Data visualisation exercise Becode. Creating charts for The Multimedia departmen
 
 ![image](https://i.imgur.com/ZYYf6t6.png)
 
-## Link to the game
+## Link
 See it live: [Data Charts](https://rusuonisim.github.io/Data-visualisation/)
 
 
